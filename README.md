@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <li>I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech.</li>
 </ul>
 <p align="center">👇 Hit in your console or terminal to connect with me.</p>
-<p align="center">npx hani19</p>
+<h3 align="center">npx hani19</h3>
 <h2>Tech Stack</h2>
 <div>
   <h4>Languages:</h4>
