@@ -17,7 +17,11 @@ Here are some ideas to get you started:
   <h3 style="color:#6a5acd;"> 🌌 Welcome to My GitHub Universe!</h3>
   <p>🎓 Graduate Student | 💻 Tech Enthusiast | 🚀 Building the Future</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DFD5CA&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate+Student;Full+Stack+Developer;Always+Learning+New+Technologies;" alt="Typing SVG" />
-</div>
+  <div>
+     <img src="./images/illustration.png" width="350" height="180" align="center"/>
+  </div>
+ </div>
+ <br>
 <p align="center">👇 Hit in your console or terminal to connect with me.</p>
 <h3 align="center">npx hani19</h3>
  <section>
@@ -73,8 +77,8 @@ const hani = {
     <summary><b>🗄️ Cloud & Databases</b></summary>
     <br>
     
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
