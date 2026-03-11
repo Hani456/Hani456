@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h1> 👋 Hey there, I'm Hanisha! </h1>
+  <h3 style="color:#6a5acd;"> 🌌 Welcome to My GitHub Universe!</h3>
   <p>🎓 Graduate Student | 💻 Tech Enthusiast | 🚀 Building the Future</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DFD5CA&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate+Student;Full+Stack+Developer;Always+Learning+New+Technologies;" alt="Typing SVG" />
 </div>
@@ -59,17 +60,20 @@ const hani = {
     <br>
     
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Graph QL](https://img.shields.io/badge/-Apollo GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   </details>
 
   <details open>
-    <summary><b>🗄️ Databases</b></summary>
+    <summary><b>🗄️ Cloud & Databases</b></summary>
     <br>
-
+  ![Google Cloud](https://img.shields.io/badge/-Google Cloud Storage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS Organizations-E7157B?style=for-the-badge&logo=awsorganizations&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -88,15 +92,15 @@ const hani = {
 
 <section>
   <h2>🎮 When I'm Not Coding... </h2>
-  <p>- 📖 Reading tech blogs and documentation</p>
-  <p>- 🎵 Listening to podcasts about tech and innovation</p>
-  <p>- 🏃‍♂️ Staying active and healthy</p>
-  <p>- 🌍 Exploring new technologies and frameworks</p>
-  <p>- 🤝 Networking with fellow developers</p>
+  <p> 📖 Reading tech blogs and documentation</p>
+  <p> 🎵 Listening to podcasts about tech and innovation</p>
+  <p> 🏃‍♂️ Staying active and healthy</p>
+  <p> 🌍 Exploring new technologies and frameworks</p>
+  <p> 🤝 Networking with fellow developers</p>
 </section>
 
 <section align="center">
-  💬 "When you code - take human ideas & translate them into machine understandable language. " 
+  💬 "When you code - Take human ideas & translate them into machine-understandable language. " 
 </section>
 
 
