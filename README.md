@@ -62,9 +62,9 @@ const hani = {
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Graph QL](https://img.shields.io/badge/-Apollo GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+  ![Graph QL](https://img.shields.io/badge/GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   </details>
@@ -72,8 +72,9 @@ const hani = {
   <details open>
     <summary><b>🗄️ Cloud & Databases</b></summary>
     <br>
-  ![Google Cloud](https://img.shields.io/badge/-Google Cloud Storage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS Organizations-E7157B?style=for-the-badge&logo=awsorganizations&logoColor=white)
+    
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
